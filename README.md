@@ -1,6 +1,7 @@
 # KickStart My Chart
 
-Organize and analyze a database of four thousand past Kickstarter projects in order to uncover any hidden trends.
+This project organized and analyzed a database of four thousand past Kickstarter projects in order to uncover any hidden trends.
+
 
 1. Three conclusions about Kickstarter campaigns given the provided data are:
 * The greatest number of Kickstarter campaigns and the most successful number of Kickstarter campaigns fall into the parent 		category of theater and the sub-parent category of plays.
